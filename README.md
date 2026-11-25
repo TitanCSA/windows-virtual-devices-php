@@ -1,5 +1,11 @@
 # Windows-Virtual-Devices PHP SDK
 
+<!-- simple-start:start -->
+Use Windows-Virtual-Devices from a PHP app.
+
+**Start here.** Run `composer require titancsa/windows-virtual-devices`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Get the driver without the one-hour demo limit**
 >
